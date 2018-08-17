@@ -1,5 +1,14 @@
 # Markdown Example
 
+___
+___
+___
+
+```
+___
+___
+___
+```
 
 # Topic1
 ```
@@ -23,14 +32,26 @@
 #### Topic4
 ```
 
-[Google](http://google.com)
-```
-[Google](http://google.com)
-```
-___
 
+---
+
+You can use command `npm install` and `npm start`.
 ```
-___
+You can use command `npm install` and `npm start`.
+```
+---
+
+> Hello
+---
+```
+//please delete double quotes
+"> Hello "
+```
+---
+
+[Google](http://google.com)
+```
+[Google](http://google.com)
 ```
 
 **This is bold text**
@@ -65,6 +86,7 @@ ___
 >> Blockquotes 2
 > > > Blockquotes 3
 ```
+
 ___
 + List1
     - List2
@@ -77,6 +99,16 @@ ___
 ```
 ___
 
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+```
+- [x] This is a complete item
+- [ ] This is an incomplete item
+```
+
+---
 
 ``` js
 var foo = function (bar) {
@@ -87,8 +119,8 @@ console.log(foo(5));
 ```
 
 ```
-" please delete double quotes
-``` js
+//please delete double quotes
+" ``` js
 var foo = function (bar) {
   return bar++;
 };
