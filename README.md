@@ -170,18 +170,12 @@ ___
 Link
 </a>
 
-<div style="background-color: red; width: 200px; height: 300px">
-</div>
-
 ```
 <img src="https://chosengifs.files.wordpress.com/2017/01/java-vs-cplusplus.gif?w=540">
 </br>
 <a href="#">
 Link
 </a>
-
-<div style="background-color: red; width: 200px; height: 300px">
-</div>
 ```
 
 
@@ -219,7 +213,8 @@ Right aligned columns
 
 ___
 
-ref
-</br>
-https://markdown-it.github.io/
-https://guides.github.com/features/mastering-markdown/
+### Referent
+
+[https://markdown-it.github.io/](https://markdown-it.github.io/)
+
+[https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
