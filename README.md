@@ -78,6 +78,13 @@ _This is italic text_
 ```
 ___
 
+[Scroll to Topic1](#Topic1)
+
+```
+[Scroll to Topic1](#Topic1)
+```
+---
+
 > Blockquotes 1
 >> Blockquotes 2
 > > > Blockquotes 3
