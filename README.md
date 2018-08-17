@@ -164,22 +164,24 @@ ___
 
 ---
 
-<center>
-  <img src="https://chosengifs.files.wordpress.com/2017/01/java-vs-cplusplus.gif?w=540">
-</center>
+<img src="https://chosengifs.files.wordpress.com/2017/01/java-vs-cplusplus.gif?w=540">
 </br>
 <a href="#">
 Link
 </a>
 
+<div style="background-color: red; width: 200px; height: 300px">
+</div>
+
 ```
-<center>
-  <img src="https://chosengifs.files.wordpress.com/2017/01/java-vs-cplusplus.gif?w=540">
-</center>
+<img src="https://chosengifs.files.wordpress.com/2017/01/java-vs-cplusplus.gif?w=540">
 </br>
 <a href="#">
 Link
 </a>
+
+<div style="background-color: red; width: 200px; height: 300px">
+</div>
 ```
 
 
@@ -218,6 +220,6 @@ Right aligned columns
 ___
 
 ref
-<br>
+</br>
 https://markdown-it.github.io/
 https://guides.github.com/features/mastering-markdown/
