@@ -109,7 +109,6 @@ ___
 ---
 
 [![Build Status](https://travis-ci.org/ReactiveX/rxjs.svg?branch=master)](https://travis-ci.org/ReactiveX/rxjs)
-[![Coverage Status](https://coveralls.io/repos/github/ReactiveX/rxjs/badge.svg?branch=master)](https://coveralls.io/github/ReactiveX/rxjs?branch=master)
 [![npm version](https://badge.fury.io/js/%40reactivex%2Frxjs.svg)](https://www.npmjs.com/)
 
 ```
@@ -187,4 +186,6 @@ Right aligned columns
 ___
 
 ref
+<br>
 https://markdown-it.github.io/
+https://guides.github.com/features/mastering-markdown/
