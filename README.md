@@ -234,23 +234,6 @@ Hello sssss
 print("hello world!")
 ```
 
-
-```
-<details>
-<summary>
-CLICK ME
-</summary>
-<p>
-
-#### yes, even hidden code blocks!
-Hello sssss
-- ss
-```python
-print("hello world!")
-```
-
-```
-
 ### Referent
 
 [https://markdown-it.github.io/](https://markdown-it.github.io/)
