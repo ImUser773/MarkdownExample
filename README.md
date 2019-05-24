@@ -233,6 +233,25 @@ Hello sssss
 ```python
 print("hello world!")
 ```
+</details>
+
+
+```
+<details>
+<summary>
+CLICK ME
+</summary>
+<p>
+
+#### yes, even hidden code blocks!
+Hello sssss
+- ss
+```python
+print("hello world!")
+```
+</details>
+
+```
 
 ### Referent
 
