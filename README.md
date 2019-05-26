@@ -235,24 +235,23 @@ print("hello world!")
 ```
 </details>
 
+---
 
-```
+```yaml
 <details>
 <summary>
 CLICK ME
 </summary>
 <p>
+```
+Test
+```
+</br>
+</details>
 
-#### yes, even hidden code blocks!
-Hello sssss
-- ss
-```python
-print("hello world!")
 ```
 
-"</details>"
-
-```
+---
 
 ### Referent
 
