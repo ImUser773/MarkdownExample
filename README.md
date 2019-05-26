@@ -243,9 +243,7 @@ print("hello world!")
 CLICK ME
 </summary>
 <p>
-```
 Test
-```
 </br>
 </details>
 
